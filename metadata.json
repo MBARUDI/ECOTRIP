@@ -1,0 +1,7 @@
+{
+  "name": "EcoTrip: Calculadora de Emissões de CO2",
+  "description": "Uma ferramenta intuitiva para simular o impacto ambiental das suas viagens, comparar meios de transporte e entender a compensação via créditos de carbono.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
